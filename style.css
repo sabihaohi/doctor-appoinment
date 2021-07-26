@@ -8,3 +8,16 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.standard{
+    background: #252B42;
+    color: white;
+
+
+}
+.standard {
+    background: #252B42;
+}
+
+.pricing-container {
+    max-width: 960px;
+}
